@@ -1,5 +1,8 @@
 # Sentiment-Analysis
-Sentiment Analysis
+## Q1) Word similarity
+Improve the similarity function for matching query entered by user with a predefined list of bank names.
+An example is given in the attached code.
+## Q2)Sentiment Analysis
 (a) Prepare a Roman Urdu dataset for multiclass classification (sentiment analysis)
 Scrap roman Urdu tweets from Twitter using some Roman Urdu keywords on some topic of your choice.
 Scrap around 500 tweets on your topic and label them into five classes (very negative, negative, neutral,
